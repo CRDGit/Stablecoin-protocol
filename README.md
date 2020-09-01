@@ -1,6 +1,6 @@
-# SushiSwap 🍣
+# Su
 
-https://app.sushiswap.org. Feel free to read the code. More details coming soon.
+https://app.cryptalbank.io/CRD Feel free to read the code. More details coming soon.
 
 ## License
 
